@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I`m Henrique Prudêncio
+---
+An **iOS Software Engineer** that loves to make new apps and be involved in discussions related to that. I've been in this world since 2014, and I love that. 
 
 <!--
 **henriquepru/henriquepru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
